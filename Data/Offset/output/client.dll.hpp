@@ -1,5 +1,5 @@
 // Generated using https://github.com/a2x/cs2-dumper
-// 2024-06-26 02:29:58.488998600 UTC
+// 2024-06-27 20:41:06.509436400 UTC
 
 #pragma once
 
@@ -2421,7 +2421,7 @@ namespace cs2_dumper {
                 constexpr std::ptrdiff_t m_nForceBone = 0xD74; // int32
                 constexpr std::ptrdiff_t m_pClientsideRagdoll = 0xD78; // CBaseAnimGraph*
                 constexpr std::ptrdiff_t m_bBuiltRagdoll = 0xD80; // bool
-                constexpr std::ptrdiff_t m_pRagdollPose = 0xD98; // 
+                constexpr std::ptrdiff_t m_pRagdollPose = 0xD98; // PhysicsRagdollPose_t*
                 constexpr std::ptrdiff_t m_bRagdollClientSide = 0xDA0; // bool
                 constexpr std::ptrdiff_t m_bHasAnimatedMaterialAttributes = 0xDB0; // bool
             }
@@ -5929,7 +5929,7 @@ namespace cs2_dumper {
                 constexpr std::ptrdiff_t m_szMuzzleFlashThirdPersonParticle = 0x958; // CResourceNameTyped<CWeakHandle<InfoForResourceTypeIParticleSystemDefinition>>
                 constexpr std::ptrdiff_t m_szMuzzleFlashThirdPersonParticleAlt = 0xA38; // CResourceNameTyped<CWeakHandle<InfoForResourceTypeIParticleSystemDefinition>>
                 constexpr std::ptrdiff_t m_szTracerParticle = 0xB18; // CResourceNameTyped<CWeakHandle<InfoForResourceTypeIParticleSystemDefinition>>
-                constexpr std::ptrdiff_t m_GearSlot = 0xBF8; // gear_slot_t
+                constexpr std::ptrdiff_t m_GearSlot = 0xBF8; // 
                 constexpr std::ptrdiff_t m_GearSlotPosition = 0xBFC; // int32
                 constexpr std::ptrdiff_t m_DefaultLoadoutSlot = 0xC00; // loadout_slot_t
                 constexpr std::ptrdiff_t m_sWrongTeamMsg = 0xC08; // CUtlString
