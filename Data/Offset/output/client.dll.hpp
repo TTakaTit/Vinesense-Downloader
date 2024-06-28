@@ -1,5 +1,5 @@
 // Generated using https://github.com/a2x/cs2-dumper
-// 2024-06-27 20:41:06.509436400 UTC
+// 2024-06-27 14:27:03.514757 UTC
 
 #pragma once
 
@@ -5929,7 +5929,7 @@ namespace cs2_dumper {
                 constexpr std::ptrdiff_t m_szMuzzleFlashThirdPersonParticle = 0x958; // CResourceNameTyped<CWeakHandle<InfoForResourceTypeIParticleSystemDefinition>>
                 constexpr std::ptrdiff_t m_szMuzzleFlashThirdPersonParticleAlt = 0xA38; // CResourceNameTyped<CWeakHandle<InfoForResourceTypeIParticleSystemDefinition>>
                 constexpr std::ptrdiff_t m_szTracerParticle = 0xB18; // CResourceNameTyped<CWeakHandle<InfoForResourceTypeIParticleSystemDefinition>>
-                constexpr std::ptrdiff_t m_GearSlot = 0xBF8; // 
+                constexpr std::ptrdiff_t m_GearSlot = 0xBF8; // gear_slot_t
                 constexpr std::ptrdiff_t m_GearSlotPosition = 0xBFC; // int32
                 constexpr std::ptrdiff_t m_DefaultLoadoutSlot = 0xC00; // loadout_slot_t
                 constexpr std::ptrdiff_t m_sWrongTeamMsg = 0xC08; // CUtlString
