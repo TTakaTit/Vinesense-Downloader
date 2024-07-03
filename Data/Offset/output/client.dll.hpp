@@ -1,5 +1,5 @@
 // Generated using https://github.com/a2x/cs2-dumper
-// 2024-06-27 14:27:03.514757 UTC
+// 2024-07-03 00:51:59.303605800 UTC
 
 #pragma once
 
@@ -2613,7 +2613,7 @@ namespace cs2_dumper {
                 constexpr std::ptrdiff_t m_nBucketCount = 0x210; // int32
                 constexpr std::ptrdiff_t m_flInterval = 0x214; // float32
                 constexpr std::ptrdiff_t m_flFinalValue = 0x218; // float32
-                constexpr std::ptrdiff_t m_nCompressionType = 0x21C; // TimelineCompression_t
+                constexpr std::ptrdiff_t m_nCompressionType = 0x21C; // 
                 constexpr std::ptrdiff_t m_bStopped = 0x220; // bool
             }
             // Parent: C_CSWeaponBaseGun
