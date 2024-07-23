@@ -1,5 +1,5 @@
 // Generated using https://github.com/a2x/cs2-dumper
-// 2024-07-12 20:59:37.834893300 UTC
+// 2024-07-23 01:40:38.018053900 UTC
 
 #pragma once
 
@@ -5106,7 +5106,7 @@ namespace cs2_dumper {
             // Metadata:
             // NetworkVarNames: m_CLightComponent (CLightComponent::Storage_t)
             namespace C_LightEntity {
-                constexpr std::ptrdiff_t m_CLightComponent = 0xCC8; // 
+                constexpr std::ptrdiff_t m_CLightComponent = 0xCC8; // CLightComponent*
             }
             // Parent: C_BaseEntity
             // Fields count: 6
