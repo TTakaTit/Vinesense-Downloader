@@ -1,5 +1,5 @@
 // Generated using https://github.com/a2x/cs2-dumper
-// 2024-07-23 01:40:38.018053900 UTC
+// 2024-07-26 12:29:39.113729300 UTC
 
 #pragma once
 
@@ -832,7 +832,7 @@ namespace cs2_dumper {
                 constexpr std::ptrdiff_t m_nOuterMaxDist = 0xCD8; // uint32
                 constexpr std::ptrdiff_t m_flGlowProxySize = 0xCDC; // float32
                 constexpr std::ptrdiff_t m_flHDRColorScale = 0xCE0; // float32
-                constexpr std::ptrdiff_t m_GlowOverlay = 0xCE8; // C_LightGlowOverlay
+                constexpr std::ptrdiff_t m_GlowOverlay = 0xCE8; // 
             }
             // Parent: None
             // Fields count: 4
@@ -1626,7 +1626,7 @@ namespace cs2_dumper {
             // Fields count: 2
             namespace CSkyboxReference {
                 constexpr std::ptrdiff_t m_worldGroupId = 0x548; // WorldGroupId_t
-                constexpr std::ptrdiff_t m_hSkyCamera = 0x54C; // CHandle<C_SkyCamera>
+                constexpr std::ptrdiff_t m_hSkyCamera = 0x54C; // 
             }
             // Parent: C_TonemapController2
             // Fields count: 0
