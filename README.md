@@ -30,3 +30,6 @@ Fonts/esp-icons.ttf
 Fonts/gui-icons.ttf
 Fonts/pixel7.ttf
 Fonts/verdana.ttf
+Bin/Vinesense.exe
+Bin/113HAX.exe
+Bin/HAXCS2.exe
