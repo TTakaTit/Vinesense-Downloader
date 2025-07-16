@@ -1319,8 +1319,8 @@
       "CCSPlayer_ItemServices": {
         "fields": {
           "m_bHasDefuser": 64,
-          "m_bHasHelmet": 65,
-	  "m_bHasHeavyArmor": 66
+          "m_bHasHeavyArmor": 66,
+          "m_bHasHelmet": 65
         },
         "metadata": [
           {
