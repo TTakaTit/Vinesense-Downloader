@@ -30,7 +30,7 @@
             "type_name": "string_t"
           }
         ],
-        "parent": null
+        "parent": ""
       },
       "CAnimGraphNetworkedVariables": {
         "fields": {
@@ -181,7 +181,7 @@
             "type_name": "float"
           }
         ],
-        "parent": null
+        "parent": ""
       },
       "CAttributeList": {
         "fields": {
@@ -195,7 +195,7 @@
             "type_name": "CEconItemAttribute"
           }
         ],
-        "parent": null
+        "parent": ""
       },
       "CAttributeManager": {
         "fields": {
@@ -223,7 +223,7 @@
             "type_name": "attributeprovidertypes_t"
           }
         ],
-        "parent": null
+        "parent": ""
       },
       "CAttributeManager__cached_attribute_float_t": {
         "fields": {
@@ -663,7 +663,7 @@
           "m_vecWheelFrictionScales": 72
         },
         "metadata": [],
-        "parent": null
+        "parent": ""
       },
       "CCSGO_WingmanIntroCharacterPosition": {
         "fields": {},
@@ -1874,7 +1874,7 @@
             "type_name": "float"
           }
         ],
-        "parent": null
+        "parent": ""
       },
       "CDamageRecord": {
         "fields": {
@@ -1995,7 +1995,7 @@
             "type_name": "int"
           }
         ],
-        "parent": null
+        "parent": ""
       },
       "CEconItemAttribute": {
         "fields": {
@@ -2170,7 +2170,7 @@
       "CEntityComponent": {
         "fields": {},
         "metadata": [],
-        "parent": null
+        "parent": ""
       },
       "CEntityIdentity": {
         "fields": {
@@ -2193,7 +2193,7 @@
             "type_name": "int32"
           }
         ],
-        "parent": null
+        "parent": ""
       },
       "CEntityInstance": {
         "fields": {
@@ -2405,7 +2405,7 @@
             "type_name": "CUtlStringToken"
           }
         ],
-        "parent": null
+        "parent": ""
       },
       "CGameSceneNodeHandle": {
         "fields": {
@@ -2424,7 +2424,7 @@
             "type_name": "CUtlStringToken"
           }
         ],
-        "parent": null
+        "parent": ""
       },
       "CGlowProperty": {
         "fields": {
@@ -2487,7 +2487,7 @@
             "type_name": "bool"
           }
         ],
-        "parent": null
+        "parent": ""
       },
       "CGrenadeTracer": {
         "fields": {
@@ -3160,7 +3160,7 @@
             "type_name": "int8"
           }
         ],
-        "parent": null
+        "parent": ""
       },
       "CNetworkedSequenceOperation": {
         "fields": {
@@ -3190,7 +3190,7 @@
             "type_name": "float32"
           }
         ],
-        "parent": null
+        "parent": ""
       },
       "CPathQueryComponent": {
         "fields": {},
@@ -4868,7 +4868,7 @@
             "type_name": "bool"
           }
         ],
-        "parent": null
+        "parent": ""
       },
       "CTriggerFan": {
         "fields": {
@@ -5970,7 +5970,7 @@
             "type_name": "BloodType"
           }
         ],
-        "parent": null
+        "parent": ""
       },
       "C_BaseEntityAPI": {
         "fields": {},
@@ -9222,7 +9222,7 @@
             "type_name": "char"
           }
         ],
-        "parent": null
+        "parent": ""
       },
       "C_EconWearable": {
         "fields": {
@@ -10590,7 +10590,7 @@
             "type_name": "Vector"
           }
         ],
-        "parent": null
+        "parent": ""
       },
       "C_EnvWindVolume": {
         "fields": {
@@ -14407,7 +14407,7 @@
             "type_name": "CHandle<CFogController>"
           }
         ],
-        "parent": null
+        "parent": ""
       },
       "CountdownTimer": {
         "fields": {
@@ -14438,7 +14438,7 @@
             "type_name": "WorldGroupId_t"
           }
         ],
-        "parent": null
+        "parent": ""
       },
       "EngineCountdownTimer": {
         "fields": {
@@ -14463,7 +14463,7 @@
             "type_name": "float32"
           }
         ],
-        "parent": null
+        "parent": ""
       },
       "EntityRenderAttribute_t": {
         "fields": {
@@ -14482,7 +14482,7 @@
             "type_name": "Vector4D"
           }
         ],
-        "parent": null
+        "parent": ""
       },
       "EntitySpottedState_t": {
         "fields": {
@@ -14536,7 +14536,7 @@
             "type_name": "WorldGroupId_t"
           }
         ],
-        "parent": null
+        "parent": ""
       },
       "OutflowWithRequirements_t": {
         "fields": {
@@ -14571,7 +14571,7 @@
             "type_name": "EHANDLE"
           }
         ],
-        "parent": null
+        "parent": ""
       },
       "PredictedDamageTag_t": {
         "fields": {
@@ -14690,7 +14690,7 @@
             "type_name": "CEntityHandle"
           }
         ],
-        "parent": null
+        "parent": ""
       },
       "SequenceHistory_t": {
         "fields": {
@@ -14702,7 +14702,7 @@
           "m_nSeqLoopMode": 12
         },
         "metadata": [],
-        "parent": null
+        "parent": ""
       },
       "SignatureOutflow_Continue": {
         "fields": {},
@@ -14767,7 +14767,7 @@
             "type_name": "uint8"
           }
         ],
-        "parent": null
+        "parent": ""
       },
       "ViewAngleServerChange_t": {
         "fields": {
@@ -14811,7 +14811,7 @@
             "type_name": "uint16"
           }
         ],
-        "parent": null
+        "parent": ""
       },
       "WeaponPurchaseTracker_t": {
         "fields": {
@@ -14824,7 +14824,7 @@
             "type_name": "WeaponPurchaseCount_t"
           }
         ],
-        "parent": null
+        "parent": ""
       },
       "audioparams_t": {
         "fields": {
@@ -14861,7 +14861,7 @@
             "type_name": "uint32"
           }
         ],
-        "parent": null
+        "parent": ""
       },
       "fogparams_t": {
         "fields": {
@@ -15008,7 +15008,7 @@
             "type_name": "bool"
           }
         ],
-        "parent": null
+        "parent": ""
       },
       "shard_model_desc_t": {
         "fields": {
@@ -15093,7 +15093,7 @@
             "type_name": "CUtlStringToken"
           }
         ],
-        "parent": null
+        "parent": ""
       },
       "sky3dparams_t": {
         "fields": {
@@ -15136,7 +15136,7 @@
             "type_name": "WorldGroupId_t"
           }
         ],
-        "parent": null
+        "parent": ""
       }
     },
     "enums": {
