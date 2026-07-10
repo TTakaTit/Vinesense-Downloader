@@ -7410,7 +7410,17 @@
         },
         "type": "uint32"
       },
-      "____s_": {
+      "_K_e__": {
+        "alignment": 0,
+        "members": {},
+        "type": "unknown"
+      },
+      "___n__": {
+        "alignment": 0,
+        "members": {},
+        "type": "unknown"
+      },
+      "_o_e__": {
         "alignment": 0,
         "members": {},
         "type": "unknown"
