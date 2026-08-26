@@ -7447,17 +7447,12 @@
         },
         "type": "uint32"
       },
-      "_0_О_": {
+      "_0____": {
         "alignment": 0,
         "members": {},
         "type": "unknown"
       },
-      "___О_": {
-        "alignment": 0,
-        "members": {},
-        "type": "unknown"
-      },
-      "_d_О_": {
+      "_d____": {
         "alignment": 0,
         "members": {},
         "type": "unknown"
