@@ -11,7 +11,7 @@
     "dwLocalPlayerPawn": "4C 39 B6 ? ? ? ? 74 ? 44 88 BE",
     "dwPlantedC4": "48 8B 1D ? ? ? ? 45 32 F6",
     "dwPrediction": "48 8D 05 ? ? ? ? C3 CC CC CC CC CC CC CC CC 40 53 56 41 54",
-    "dwSensitivity": "48 8D 0D ? ? ? ? 66 0F 6E CD",
+    "dwSensitivity": "48 8D 0D ? ? ? ? 0F 57 C9 0F 28 F0",
     "dwSensitivity_sensitivity": "0x58",
     "dwViewAngles": "F2 42 0F 10 84 28 ? ? ? ?",
     "dwViewMatrix": "48 8D 0D ? ? ? ? 48 C1 E0 06",
